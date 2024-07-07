@@ -6,3 +6,14 @@ Some files were too large for git upload even after zipping. They are not upload
 
 ~ Thanks,
 <p>Srijan</p>
+
+<hr>
+
+  ## How to Use?
+  - Clone the repository
+  - Make sure you have all the requirements in your system. Else create a requirements.txt file that contains pickle, transformers, os, pandas, torch, fuzzywuzzy. Run this txt file using pip.
+  - Download the pickle file and run only the demo.py file
+  - Also make sure you update the filepath.
+
+Trust the process, reach out to me for any problems.
+
